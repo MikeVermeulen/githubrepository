@@ -1,0 +1,8 @@
+/bin
+/obj
+*.user
+*.suo
+*.sln.cache
+*.sln
+*.v12.suo
+Thumbs.db
